@@ -1,0 +1,290 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201607 will be lost/reset.
+# Last config file used to build this data file was /home/codecroz/tmp/awstats/awstats.codecroze.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2692                
+POS_VISITOR 3433                
+POS_DAY 4143                
+POS_DOMAIN 4317                
+POS_LOGIN 4561                
+POS_ROBOT 4716                
+POS_WORMS 4892                
+POS_EMAILSENDER 5023                
+POS_EMAILRECEIVER 5166                
+POS_SESSION 5242                
+POS_SIDER 5431                
+POS_FILETYPES 6018                
+POS_DOWNLOADS 6237                
+POS_OS 6285                
+POS_BROWSER 6406                
+POS_SCREENSIZE 6572                
+POS_UNKNOWNREFERER 6646                
+POS_UNKNOWNREFERERBROWSER 6733                
+POS_ORIGIN 6815                
+POS_SEREFERRALS 6951                
+POS_PAGEREFS 7095                
+POS_SEARCHWORDS 7243                
+POS_KEYWORDS 7395                
+POS_MISC 2356                
+POS_ERRORS 7454                
+POS_CLUSTER 4417                
+POS_SIDER_404 7576                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160723110254 889 217140 15513565598033
+FirstTime 20160722132340
+LastTime 20160723110252
+LastUpdate 20160723112008 889 0 889 0 0
+TotalVisits 16                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 1 4 13367 0 0 0
+12 0 0 0 0 0 0
+13 3 3 609 1 3 0
+14 5 5 839 1 2 169
+15 29 85 1584914 12 37 13350
+16 62 192 1505605 19 19 38
+17 42 136 2044521 15 22 21
+18 56 226 2807861 20 26 15
+19 5 22 947147 7 8 11637
+20 0 0 0 0 0 0
+21 7 18 965347 3 4 4979
+22 32 67 2767287 9 10 8618
+23 0 0 0 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 15
+223.191.4.229 63 200 2012113 20160722162153
+27.63.134.171 37 152 2715061 20160722185303
+101.221.57.123 28 89 141604 20160722180626
+45.124.193.138 25 48 1608538 20160723110252 20160723110252 /
+223.191.1.74 24 86 1031733 20160722174125
+223.191.11.74 19 41 118318 20160722164338
+223.191.11.144 12 54 973352 20160722170431
+101.220.85.28 6 17 950720 20160722171613
+101.219.188.7 6 17 951980 20160722212405
+101.220.51.18 5 20 1147741 20160722221841
+202.137.212.50 5 5 1113 20160722141204
+223.191.5.224 5 22 947147 20160722192438
+101.221.47.37 3 3 24375 20160722223542
+27.63.132.17 3 3 335 20160722141311
+54.244.49.200 1 1 13367 20160722212611
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20160722 241 754 12624130 15
+20160723 1 4 13367 1
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+in 241 757 12624130
+us 1 1 13367
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+bot[\s_+:,\.\;\/\\-] 1 169 20160722140914 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30mn-1h 2
+30s-2mn 4
+5mn-15mn 2
+0s-30s 3
+15mn-30mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/checkout.php 79 358515 0 8
+/ 47 418104 14 3
+/fonts/glyphicons-halflings-regular.woff2 39 162252 0 2
+/index.php 26 346915 2 0
+/admin/index.php 18 147926 0 0
+/login.php 8 32543 0 0
+/admin/font-awesome/fonts/fontawesome-webfont.woff 4 196356 0 1
+/shop.php 4 33800 0 0
+/resources/cart.php 3 20 0 0
+/item.php 3 26215 0 0
+/test.php 3 348 0 0
+/admin/ 3 14184 0 0
+/admin/fonts/glyphicons-halflings-regular.woff2 2 36056 0 0
+/contact.php 2 11722 0 1
+/category.php 1 5199 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+html 50 432288 0 0
+woff 4 196356 0 0
+png 117 5171628 0 0
+jpg 127 1951037 0 0
+css 160 1610526 0 0
+js 112 2114151 0 0
+php 147 963203 0 0
+woff2 41 198308 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+linuxandroid 57 20
+winnt 53 30
+winxp 1 1
+win8.1 647 191
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+chrome50.0.2661.89 17 6
+chrome51.0.2704.106 647 191
+chrome36.0.1985.135 40 14
+msie6.0 1 1
+chrome51.0.2704.103 53 30
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 54
+From1 0 0
+From2 0 0
+From3 0 0
+From4 188 704
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+500 16 11628
+302 47 25840
+404 54 0
+301 5 1190
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/resources/uploads/image_3.jpg 6 http://codecroze.in/
+/resources/uploads/Screenshot%20(431).png 6 http://codecroze.in/
+/index.html 1 -
+/resources/uploads/image_2.jpg 6 http://codecroze.in/
+/public 2 http://www.codecroze.in/contact.php
+/cgi-bin/ 1 http://www.codecroze.in/
+/resources/uploads/Screenshot%20(440).png 6 http://codecroze.in/
+/public/checkout.php 4 http://codecroze.in/
+/resources/checkout.php 1 -
+/resources/uploads/image_4.jpg 6 http://codecroze.in/
+/resources/uploads/Screenshot%20(441).png 6 http://codecroze.in/
+/resources/cart.php 9 http://codecroze.in/index.php
+END_SIDER_404

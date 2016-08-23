@@ -1,0 +1,6 @@
+[23-Jul-2016 11:59:58 UTC] PHP Warning:  require_once(../../config.php): failed to open stream: No such file or directory in /home/codecroz/public_html/resources/templates/back/delete_order.php on line 1
+[23-Jul-2016 11:59:58 UTC] PHP Fatal error:  require_once(): Failed opening required '../../config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/codecroz/public_html/resources/templates/back/delete_order.php on line 1
+[23-Jul-2016 12:00:31 UTC] PHP Warning:  require_once(../../config.php): failed to open stream: No such file or directory in /home/codecroz/public_html/resources/templates/back/delete_order.php on line 1
+[23-Jul-2016 12:00:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../../config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/codecroz/public_html/resources/templates/back/delete_order.php on line 1
+[23-Jul-2016 12:22:53 UTC] PHP Warning:  require_once(../../config.php): failed to open stream: No such file or directory in /home/codecroz/public_html/resources/templates/back/delete_product.php on line 1
+[23-Jul-2016 12:22:53 UTC] PHP Fatal error:  require_once(): Failed opening required '../../config.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/codecroz/public_html/resources/templates/back/delete_product.php on line 1

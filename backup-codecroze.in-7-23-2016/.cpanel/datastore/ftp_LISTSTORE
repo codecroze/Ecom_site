@@ -1,0 +1,1 @@
+{"data":[{"type":"main","homedir":"/home/codecroz","user":"codecroz"},{"user":"codecroz_logs","type":"logaccess","homedir":"/home/domlogs/codecroz"}],"exit_code":0,"status":1,"error":0,"version":"2.4","statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","mode":"simple","action":"fetch","timeout":0}
